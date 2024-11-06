@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-afqIcfGWrhFjYcW1HMj9H0JR.png?st=2024-11-06T13%3A36%3A10Z&se=2024-11-06T15%3A36%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T19%3A24%3A49Z&ske=2024-11-06T19%3A24%3A49Z&sks=b&skv=2024-08-04&sig=Clb/406rjD/hJBanEo6TqVINew4QY60SjOgkN%2BddYms%3D)
+
 ## 🎮 Create a Simple Game Application
 
 Welcome to the world of game development! In this task, you will create a simple game application that includes player movement, a scoring system, and enemy interactions. By the end of this task, you'll have applied key programming concepts and learned how to use data from files to instantiate objects, design classes, and program creatively. Ready to dive into the world of game development? Let’s go!
