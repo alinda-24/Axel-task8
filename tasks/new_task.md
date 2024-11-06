@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-LOTPyJ3mWOqcuTkvnviyJdJD.png?st=2024-11-06T15%3A55%3A32Z&se=2024-11-06T17%3A55%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T20%3A10%3A40Z&ske=2024-11-06T20%3A10%3A40Z&sks=b&skv=2024-08-04&sig=UOFcyUa7neXDkxW/%2BCoB9w/SguLn1sMtRKpwFmQlNWc%3D)
+
 # 🕹️ Simple Text-Based Adventure Game: The Five Rooms Challenge
 
 Welcome to the Five Rooms Challenge, where you will combine creative game design with advanced programming concepts. In this project, you'll develop a simple text-based game featuring a player navigating through five interconnected rooms filled with challenges. A brave player and cunning enemies will create a dynamic, engaging experience based on reading data from files, class design, and creative problem-solving.
