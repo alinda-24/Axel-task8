@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-3soi5Hi390hXDkuPEefznFEf.png?st=2024-11-06T13%3A23%3A43Z&se=2024-11-06T15%3A23%3A43Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T20%3A02%3A08Z&ske=2024-11-06T20%3A02%3A08Z&sks=b&skv=2024-08-04&sig=tat9acK%2B7wJ6fIK6i5zXCB/Rzu3e7QNs7NGpfvODXJc%3D)
+
 ### 🕹️ Programming Task: Create a Geometry Dash-Inspired Game
 
 Welcome to this programming task where you'll harness your creativity and coding skills to develop a simple Geometry Dash-like game. This project will not only test your ability to instantiate objects from file data but also challenge you to design cohesive classes and program creatively. By the end of this task, you'll have crafted a unique game experience reminiscent of the fast-paced excitement found in Geometry Dash.
